@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "214487377463",
+    "firebase_url": "https://birdie-app-ab3c6-default-rtdb.firebaseio.com",
+    "project_id": "birdie-app-ab3c6",
+    "storage_bucket": "birdie-app-ab3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214487377463:android:a93f1830f1aab8f7d1c1b2",
+        "android_client_info": {
+          "package_name": "com.example.birdie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhi1LkDkgskddCRJ-Or3iceYZxIPxRFms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214487377463-t20apqf2sq179t03aqgo94dfcjt6ir7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.birdieFlutterProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214487377463:android:037f2993153e5ad3d1c1b2",
+        "android_client_info": {
+          "package_name": "com.example.camera_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhi1LkDkgskddCRJ-Or3iceYZxIPxRFms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214487377463-t20apqf2sq179t03aqgo94dfcjt6ir7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.birdieFlutterProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214487377463:android:e8a22aef0531bc4dd1c1b2",
+        "android_client_info": {
+          "package_name": "com.example_app.birdie_flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214487377463-73onv6mus0kuq9ec12isie6uhhnju2ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example_app.birdie_flutter_project",
+            "certificate_hash": "937d297a8b707df73b38b41cf8d5577761c98032"
+          }
+        },
+        {
+          "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhi1LkDkgskddCRJ-Or3iceYZxIPxRFms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214487377463-m6p7avnv8djb7e88g66oa2etic4cpar0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214487377463-t20apqf2sq179t03aqgo94dfcjt6ir7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.birdieFlutterProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
